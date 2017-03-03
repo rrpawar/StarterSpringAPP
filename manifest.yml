@@ -1,8 +1,8 @@
 applications:
-- path: target/JavaHelloWorldApp.war
+- path: target/StarterSpringAPP.war
   memory: 512M
   instances: 1
   domain: eu-gb.mybluemix.net
-  name: TestingSpringJavaApp
-  host: TestingSpringJavaApp
+  name: StarterSpringAPP
+  host: StarterSpringAPP
   disk_quota: 1024M
